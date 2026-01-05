@@ -1,3 +1,3 @@
 # sonam mech.
-this is my first git repository
-author- Sonam singh
+this is my first git repository.
+Author- Sonam singh

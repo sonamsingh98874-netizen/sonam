@@ -1,4 +1,4 @@
 # sonam mech.engg
 this is my first git repository.
-<bar>
+<br>
 Author- sonam singh
